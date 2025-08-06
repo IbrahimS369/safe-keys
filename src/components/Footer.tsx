@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
               <div className="w-10 h-10 bg-gradient-to-br from-blue-600 to-blue-700 rounded-lg flex items-center justify-center">
                 <Home className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold">RealEstate Pro</span>
+              <span className="text-xl font-bold">SafeKeys</span>
             </div>
             <p className="text-gray-300 mb-4">
               Your trusted partner in finding the perfect property. We make real estate dreams come true.
@@ -54,7 +54,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="w-5 h-5 text-blue-400" />
-                <span className="text-gray-300">info@realestatepro.com</span>
+                <span className="text-gray-300">SafeKeys.com</span>
               </li>
             </ul>
           </div>
@@ -62,7 +62,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-300">
-            © 2025 RealEstate Pro. All rights reserved. Built with modern web technologies.
+            © 2025 SafeKeys. All rights reserved. Built with modern web technologies.
           </p>
         </div>
       </div>

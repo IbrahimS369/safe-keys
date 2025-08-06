@@ -24,7 +24,7 @@ const Navbar: React.FC = () => {
             <div className="w-10 h-10 bg-gradient-to-br from-blue-600 to-blue-700 rounded-lg flex items-center justify-center">
               <Home className="w-6 h-6 text-white" />
             </div>
-            <span className="text-2xl font-bold text-gray-900">RealEstate Pro</span>
+            <span className="text-2xl font-bold text-gray-900">SafeKeys</span>
           </Link>
 
           {/* Desktop Navigation */}
